@@ -8,7 +8,7 @@ Replace the name of the repository in [index.xml](/index.xml) when using this te
 This will be the name shown in ReaPack.
 
 ```xml
-<index version="1" name="Name of your repository here">
+<index version="1" name="Привет">
 ```
 
 Replace the contents of this file ([README.md](/README.md)).
